@@ -13,4 +13,6 @@ working on developing new abstractions that will help promote responsible data
 management, transparency and accountability on the web.
 </p>
 
-If you want to contact me, your best hope is my email address: *my-first-name &#60;at&#62; cs.columbia.edu*
+If you want to contact me, your best hope is my email address:
+
+*my-first-name &#60;at&#62; cs.columbia.edu*
