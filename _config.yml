@@ -8,10 +8,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'Roxana Geambasu'
-tagline:          'Assistant Professor of Computer Science at Columbia University <br/>(first-name@cs.columbia.edu)'
+title:            'Yannis Spiliopoulos'
+tagline:          ''
 description:      ''
-url:              http://roxanageambasu.github.io/
+url:              http://spiliopoulos.github.io/
 
 paginate:         1
 paginate_path:    /blog/page:num
